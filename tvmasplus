@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+<channels_info>
+<title>TOTALPLAY</title>
+<thumbnail>http://www.metroscubicos.com/tci/201308//img/sp-totalplay.png</thumbnail>
+<fanart>http://www.easycard.com.mx/images/descuentos/Totalplay-Logo-Rem%2007-12.jpg</fanart>
+</channels_info>
+
 <channel>
 <name>[COLOR blue]MEXICO TV[/COLOR]</name>
 <thumbnail>http://embamex.sre.gob.mx/canada/images/comercioeinversion/logo%20mexico.jpg</thumbnail>

@@ -8,8 +8,8 @@
 </channels_info>
 
 <channel>
-<name>[COLOR blue]NOMBRE DE LA SECCION [/COLOR]</name>
-<thumbnail>http://embamex.sre.gob.mx/canada/images/comercioeinversion/logo%20mexico.jpg</thumbnail>
+<name>[COLOR skyblue]NOMBRE DE LA SECCION [/COLOR]</name>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info>TV NACIONAL</info>
 <genre>TV
@@ -20,12 +20,12 @@ Ano de Lançamento:2014
 
 
 <item>
-<title>POKER CHANNEL</title>
+<title>[COLOR orange]LOS 40 PRINCIPALES[/COLOR]</title>
 <link>http://7359.live.streamtheworld.com/LOS40_MEXICOAAC?banners=300x250%2C728x90%2Cswf</link>
-<thumbnail>http://expokidscolombia.com/revista_ekids/wp-content/uploads/2013/10/40-Principales-296x236.png</thumbnail>
-<genre>Poker</genre>
-<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin</info>
-<date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+<thumbnail>http://www.andrealegarreta.com/wp-content/uploads/2009/11/4040.png</thumbnail>
+<genre>Radio</genre>
+<info>Los 40 Principales México, Somos la cadena de Radio Juvenil más grande del Mundo y contamos con los mejores programas de entretenimiento, ¡Ya Párate!</info>
+<date>17.12.2014</date>  <!-- format - dd.mm.yyyy -->
 <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
 <fanart>http://fanart.jpg</fanart>
 </item>

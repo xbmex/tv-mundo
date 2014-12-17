@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
-<channels_info>
-<title>[COLOR skyblue]TV LATINOAMERICA[/COLOR]</title>
-<thumbnail>http://www.brandemia.org/sites/default/files/marca-pais-latinoamerica.jpg</thumbnail>
-<fanart></fanart>
-</channels_info>
 
 <channel>
 <name>[COLOR blue]MEXICO TV[/COLOR]</name>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+<channels_info>
+<title>[COLOR skyblue]TV LATINOAMERICA[/COLOR]</title>
+<thumbnail>http://www.brandemia.org/sites/default/files/marca-pais-latinoamerica.jpg</thumbnail>
+<fanart></fanart>
+</channels_info>
+
+<channel>
+<name>[COLOR blue]MEXICO TV[/COLOR]</name>
+<thumbnail>http://embamex.sre.gob.mx/canada/images/comercioeinversion/logo%20mexico.jpg</thumbnail>
+<fanart></fanart>
+<info>TV NACIONAL</info>
+<genre>TV
+Ano de Lançamento:2014
+Áudio: LATINO
+</genre>TV
+<items>
+
+<item>
+<title>[COLOR skyblue]EXPANDE TV    [COLOR silver]EN VIVO[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/7277442/envivo</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.new.livestream.com/events/00000000002b1331/b43d3b4f-e24e-4ba1-811d-60aa4e32715e_170x255.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TELEFORMULA        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://72.233.78.178/live playpath=A swfUrl=http://www.teleformula.com.mx/flash/130108/player_nvo.swf live=1 pageUrl=http://www.teleformula.com.mx/include/player_estaciones.asp?idEs=tele</link>
+<thumbnail>http://teleformula.com.mx/dise120504/img/layout/logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL DE LAS ESTRELLAS [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+<thumbnail>http://www.skneo2.com/wp-content/uploads/2013-11/Canal-de-las-Estrellas-en-VIVO-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]AZTECA 13     [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-IMl1mQrTLYI/UL2O5syqJ-I/AAAAAAAAefQ/Cb3xKbXPBgQ/s1600/azteca-13-online.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]AZTECA 7 NOTICIAS         [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+<thumbnail>http://www.tvchingona.net/wp-content/uploads/2013/12/azteca-siete-hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]AZTECA 7       [COLOR silver](VIVO)[/COLOR]</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=13&amp;lan=2&amp;rows=40&amp;f=.m3u8</link>
+<thumbnail>http://dechismes.com/wp-content/uploads/2014/05/estreno-el-hormiguero-mx-640x360.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PROYECTO 40        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8</link>
+<thumbnail>http://www.impresoscreativos.com.mx/images/assets/40.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FORO TV       [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_9563_2_3938.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL 5 [COLOR silver](VIVO)[/COLOR]</title>
+<thumbnail>http://2.bp.blogspot.com/-E94E7wwZ138/UoQ6TGLUFCI/AAAAAAAAN0g/pFqB55dRVxg/s1600/poster-mexico-pm-canal-5-cinco-logo-logotipo-oficial-ximinia-blog-programa-serie-televisa-jovenes-irreverencia-television-irreverente-un-tal-show-caeli-telebasura-televisa-teidiotiza-telerisa-manchados-tv-show-porqueria-criticas-mx-2013-web.jpg</thumbnail>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=37&amp;lan=2&amp;rows=40&amp;f=.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR skyblue]CADENA 3        [COLOR silver]OFF TEMPORALMENTE[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/Cadena3_delivery@151859/master.m3u8</link>
+<thumbnail>http://www.cadenatres.com.mx/media/files/cadenatres/logo_0_1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL DEL CONGRESO        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://dl.canaldelcongreso.gob.mx/ccongreso/ playpath=mp4:congreso2b.mp4 timeout=15</link>
+<thumbnail>http://homozapping.com.mx/wp-content/uploads/2011/03/canal_del_congreso_mexico.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL 22        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://origen.cloudapp.net:1935/live playpath=envivopc swfUrl=http://enlinea.canal22.org.mx/strobemediaplayback.swf live=1 pageUrl=http://enlinea.canal22.org.mx/endirectoflashExternal.php timeout=15</link>
+<thumbnail>http://prensaescenario.files.wordpress.com/2012/06/3127_1106012021341_1558010727_30232529_4249670_n3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL 11         [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 timeout=15</link>
+<thumbnail>http://cuadernosdelprofesor.files.wordpress.com/2012/06/canal-11.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]HISPAN TV        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-m_tv-live-25f-4x3-SDh swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/1111112/ timeout=15</link>
+<thumbnail>http://www.webislam.com/media/2013/01/55957_hispan-tv_big.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]MEXIQUENCE        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1 timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/-ULlFeiZZSus/T5tFZigRp2I/AAAAAAAAB0Y/UyXehRZNfYk/s1600/sist_radio_tv_mexiquense.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL 2 MATAMOROS [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=18118893</link> 
+<thumbnail>http://4.bp.blogspot.com/-8P1b7ZrpZP8/UpC4g8h-q8I/AAAAAAAAP34/9gOgWPYhnqg/s1600/CANAL%2B2%2BMATAMOROS%2BPNG.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]MULTIMEDIOS MONTERREY        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8?playerId=1206864781001&lineupId=&affiliateId=&pubId=57828478001&videoId=1047652137001 timeout=15</link>
+<thumbnail>http://2.bp.blogspot.com/_oM5y3YdP85I/TDj2316Ex_I/AAAAAAAAAD8/vvtckGYZPqg/s1600/milenio,multimedios.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]OCHO TV      [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/ocho_tv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TELEMAX SONORA        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>rtmp://204.45.15.50/telemax playpath=telemax swfUrl=http://telemax.com.mx/envivo/video_player.swf live=1 pageUrl=http://telemax.com.mx/envivo/stream.php timeout=15</link>
+<thumbnail>https://d2uykijsw1jrmd.cloudfront.net/media/cache/64/f3/64f3c5b7acc2c153f3e68e2d73d1c434.jpg</thumbnail>
+</item>
+
+<subitem>
+<title>[COLOR skyblue]TRAVEL CHANNEL        [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://xmexicotravelernetworkx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://www.mexicotravelchannel.com.mx/_assets/_css/_img/logosmtch.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>[COLOR skyblue]MILENIO TV[COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956</link>
+<thumbnail>http://www.milenio.com/bbtfile/4009_20131101E5grYZ.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR skyblue]YAQUI TV         [COLOR silver]EN VIVO[/COLOR]</title>
+<link>http://74.63.97.188:1935/gpacifico3/videogpacifico3/playlist.m3u8</link>
+<thumbnail>http://images.wikia.com/logopedia/images/b/b9/Canal2obregon2005.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]GALA TV CANCUN      [COLOR silver]EN VIVO[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/8383482/events/2982470</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.new.livestream.com/events/00000000002d8246/5201f435-b7fa-4f87-baac-edbf9e6c653b_170x255.png</thumbnail>
+</item>
+
+<item>
+<title>POKER CHANNEL</title>
+<link>mms://some/place/pokerchannel</link>
+<thumbnail>http://channel.png</thumbnail>
+<genre>Poker</genre>
+<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+<date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+<epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+<fanart>http://fanart.jpg</fanart>
+</item>
+
+</channel>
+<!-- ==================================================================================== -->
